@@ -15,9 +15,9 @@
 
 .footer{
 
-	background:forestgreen;
-	margin: 0px 0px 0px 0px;
-	padding:20px 0px 20px 0px; 
+	background:lightgreen;
+	
+	padding-top:20px;
 	
 
 	
@@ -46,6 +46,3 @@ body{
      background-color: darkgreen;
 }
 
-.navbar-toggler{
-	color: white;
-}
